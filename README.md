@@ -118,8 +118,8 @@ Write unit tests for critical parts of your app. The process of writing tests fo
 
 ## Challenges
 
-### [iOS Engineer Challenge - Calendar and Agenda Views](instructions/ios-engineer.md)
+### [iOS Engineer Challenge - Calendar and Agenda Views](instructions/ios/ios-engineer.md)
 
-### [Android Engineer Challenge - Calendar and Agenda Views](instructions/android-engineer.md)
+### [Android Engineer Challenge - Calendar and Agenda Views](instructions/android/android-engineer.md)
 
-### [Designer Challenge - Onboarding and Uber](instructions/designer.md)
+### [Designer Challenge - Onboarding and Uber](instructions/design/designer.md)
